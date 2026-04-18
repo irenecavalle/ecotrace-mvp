@@ -1,0 +1,31 @@
+id,name,lat,lon,country,region,type,capacity_mtpy
+1,Gujarat Spinning Mill,21.1975,72.8394,India,Gujarat,spinning,1200
+2,Tamil Nadu Textile,11.1271,79.8711,India,Tamil Nadu,weaving,800
+3,Vietnam Dye House,10.8505,106.7663,Vietnam,Ho Chi Minh,dyeing,600
+4,Hanoi Mills,21.0285,105.8542,Vietnam,Hanoi,spinning,900
+5,Pakistan Cotton Spinner,31.5497,74.3436,Pakistan,Punjab,spinning,750
+6,Bangladesh Garment,23.8103,90.4125,Bangladesh,Dhaka,finishing,1100
+7,Cambodia Weaving,11.5564,104.9282,Cambodia,Phnom Penh,weaving,500
+8,India Cotton Farm,21.5,72.5,India,Gujarat,raw_material,5000
+9,Vietnam Cotton Farm,20.5,105.5,Vietnam,Mekong,raw_material,4000
+10,Pakistan Dye House,31.5,74.3,Pakistan,Punjab,dyeing,700
+11,Bangladesh Spinning,23.8,90.4,Bangladesh,Dhaka,spinning,600
+12,India Dyeing,21.2,72.9,India,Gujarat,dyeing,550
+13,Vietnam Weaving,10.8,106.7,Vietnam,Ho Chi Minh,weaving,650
+14,Pakistan Finishing,31.5,74.3,Pakistan,Punjab,finishing,400
+15,Bangladesh Mills,23.8,90.4,Bangladesh,Dhaka,weaving,850
+16,India Finishing,21.3,72.8,India,Gujarat,finishing,500
+17,Vietnam Spinning,20.5,105.5,Vietnam,Hanoi,spinning,1000
+18,Pakistan Weaving,31.5,74.3,Pakistan,Punjab,weaving,650
+19,Bangladesh Dyeing,23.8,90.4,Bangladesh,Dhaka,dyeing,750
+20,Cambodia Finishing,11.5,104.9,Cambodia,Phnom Penh,finishing,350
+21,India Mills Complex,21.0,72.5,India,Gujarat,spinning,1500
+22,Vietnam Textile Hub,10.5,106.5,Vietnam,Ho Chi Minh,weaving,1200
+23,Pakistan Garment,31.5,74.3,Pakistan,Punjab,finishing,650
+24,Bangladesh Complex,23.8,90.4,Bangladesh,Dhaka,spinning,900
+25,India Dye Works,21.2,72.8,India,Gujarat,dyeing,650
+26,Vietnam Processing,20.8,105.5,Vietnam,Hanoi,finishing,550
+27,Pakistan Weaving Mills,31.5,74.3,Pakistan,Punjab,weaving,750
+28,Bangladesh Finishing,23.8,90.4,Bangladesh,Dhaka,finishing,500
+29,India Spinning Complex,21.1,72.8,India,Gujarat,spinning,1100
+30,Vietnam Garment,10.8,106.7,Vietnam,Ho Chi Minh,finishing,800
